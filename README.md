@@ -31,6 +31,8 @@ A simple responsive Portfolio website.
 ### Contact Page
 ![App Screenshot](https://github.com/rikeshmhz/pro/blob/master/public/Screenshot/contact.JPG?raw=true)
 
+### Contact Page
+![App Screenshot](https://github.com/rikeshmhz/pro/blob/master/public/Screenshot/contact.JPG?raw=true)
 
 
 
