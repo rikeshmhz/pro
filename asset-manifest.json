@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.23d3d40e.css",
-    "main.js": "/portfolio/static/js/main.36be2497.js",
-    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/react.png": "/portfolio/static/media/react.81ed438b18e24116794d.png",
-    "static/media/php.png": "/portfolio/static/media/php.502c1a901665a0453b5c.png",
-    "static/media/rikesh.jpg": "/portfolio/static/media/rikesh.19888422b12144021fc6.jpg",
-    "static/media/mysql.png": "/portfolio/static/media/mysql.67646295cd91e7a3920e.png",
-    "static/media/JS.png": "/portfolio/static/media/JS.7f8751632b42a9932c15.png",
-    "static/media/mongodb.png": "/portfolio/static/media/mongodb.7a16fc61d457c9e340e2.png",
-    "static/media/bootstrap.png": "/portfolio/static/media/bootstrap.e94a80856cc0cb492938.png",
-    "static/media/css.png": "/portfolio/static/media/css.9fa1c3f36eb5f2a061ba.png",
-    "static/media/html.png": "/portfolio/static/media/html.ff3cf75e3b7cbb4ea77c.png",
-    "static/media/express.png": "/portfolio/static/media/express.e3d4f9e5c8b469e45838.png",
-    "index.html": "/portfolio/index.html",
-    "main.23d3d40e.css.map": "/portfolio/static/css/main.23d3d40e.css.map",
-    "main.36be2497.js.map": "/portfolio/static/js/main.36be2497.js.map",
-    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/pro/static/css/main.23d3d40e.css",
+    "main.js": "/pro/static/js/main.6011f74f.js",
+    "static/js/787.1ed0c42c.chunk.js": "/pro/static/js/787.1ed0c42c.chunk.js",
+    "static/media/react.png": "/pro/static/media/react.81ed438b18e24116794d.png",
+    "static/media/php.png": "/pro/static/media/php.502c1a901665a0453b5c.png",
+    "static/media/rikesh.jpg": "/pro/static/media/rikesh.19888422b12144021fc6.jpg",
+    "static/media/mysql.png": "/pro/static/media/mysql.67646295cd91e7a3920e.png",
+    "static/media/JS.png": "/pro/static/media/JS.7f8751632b42a9932c15.png",
+    "static/media/mongodb.png": "/pro/static/media/mongodb.7a16fc61d457c9e340e2.png",
+    "static/media/bootstrap.png": "/pro/static/media/bootstrap.e94a80856cc0cb492938.png",
+    "static/media/css.png": "/pro/static/media/css.9fa1c3f36eb5f2a061ba.png",
+    "static/media/html.png": "/pro/static/media/html.ff3cf75e3b7cbb4ea77c.png",
+    "static/media/express.png": "/pro/static/media/express.e3d4f9e5c8b469e45838.png",
+    "index.html": "/pro/index.html",
+    "main.23d3d40e.css.map": "/pro/static/css/main.23d3d40e.css.map",
+    "main.6011f74f.js.map": "/pro/static/js/main.6011f74f.js.map",
+    "787.1ed0c42c.chunk.js.map": "/pro/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.23d3d40e.css",
-    "static/js/main.36be2497.js"
+    "static/js/main.6011f74f.js"
   ]
 }
