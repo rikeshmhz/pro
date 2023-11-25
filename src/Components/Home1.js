@@ -19,7 +19,7 @@ const Home1 = () => {
                     <div className='text-3xl flex flex-row my-2'>
                         <Link to='https://www.linkedin.com/in/rikesh-maharjan-1184a3271' target="_blank"><AiFillLinkedin /></Link>
                         <Link to='https://github.com/rikeshmhz' target="_blank" className='mx-5'><AiFillGithub /></Link>
-                        <Link to='mailto:rikeshmaharjan05@gmail.com'><AiOutlineMail /></Link>
+                        <Link to='mailto:rikesh.0014@gmail.com'><AiOutlineMail /></Link>
                         <Link to="tel:9808009911" className='mx-5'><FaPhoneSquareAlt /></Link> 
                     </div>
                     <div>

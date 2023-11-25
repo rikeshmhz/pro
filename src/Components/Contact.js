@@ -7,7 +7,7 @@ const Contact = () => {
 
     const handleMessage = (e) => {
         e.preventDefault()
-        window.location = "mailto:rikeshmaharjan05@gmail.com?subject=From: "+ name + "%0D%0APhone: "+ phone + "&body=" + message
+        window.location = "mailto:rikesh.0014@gmail.com?subject=From: "+ name + "%0D%0APhone: "+ phone + "&body=" + message
     }
     return (
         <div className='w-full bg-gradient-to-b from-gray-800 to-gray-900 text-white' id='contact'>
