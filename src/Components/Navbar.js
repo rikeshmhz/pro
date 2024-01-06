@@ -15,7 +15,7 @@ const Navbar = () => {
             <Link to='about' smooth offset={-100} duration={500}><li className='px-4 cursor-pointer font-medium text-gray-500 hover:scale-105'>About</li></Link> 
             <Link to='portfolio' smooth offset={-100} duration={500}><li className='px-4 cursor-pointer font-medium text-gray-500 hover:scale-105'>Portfolio</li></Link>
             <Link to='skills' smooth offset={-90} duration={500}><li className='px-4 cursor-pointer font-medium text-gray-500 hover:scale-105'>Skills</li></Link>
-            <Link to='contact' smooth offset={-60} duration={500}><li className='px-4 cursor-pointer font-medium text-gray-500 hover:scale-105'>contact</li></Link>
+            <Link to='contact' smooth offset={-60} duration={500}><li className='px-4 cursor-pointer font-medium text-gray-500 hover:scale-105'>Contact</li></Link>
         </ul>
         <div onClick={()=> setNav(!nav)} className='cursor-pointer pr-4 z-10 text-gray-500 md:hidden'>
             {nav ? <FaTimes size={25}/> : <FaBars size={25}/>}
@@ -26,7 +26,7 @@ const Navbar = () => {
              <Link to='about' smooth offset={-100} duration={500} onClick={()=> setNav(!nav)}><li className='py-3 cursor-pointer font-medium text-3xl text-gray-500 hover:scale-105'>About</li></Link>
              <Link to='portfolio' smooth offset={-100} duration={500} onClick={()=> setNav(!nav)}><li className='py-3 cursor-pointer font-medium text-3xl text-gray-500 hover:scale-105'>Portfolio</li></Link>
              <Link to='skills' smooth offset={-90} duration={500} onClick={()=> setNav(!nav)}><li className='py-3 cursor-pointer font-medium text-3xl text-gray-500 hover:scale-105'>Skills</li></Link>
-             <Link to='contact' smooth offset={-60} duration={500} onClick={()=> setNav(!nav)}><li className='py-3 cursor-pointer font-medium text-3xl text-gray-500 hover:scale-105'>contact</li></Link>
+             <Link to='contact' smooth offset={-60} duration={500} onClick={()=> setNav(!nav)}><li className='py-3 cursor-pointer font-medium text-3xl text-gray-500 hover:scale-105'>Contact</li></Link>
             </ul>
         )}
         
