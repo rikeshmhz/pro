@@ -7,12 +7,8 @@ import * as Scroll from 'react-scroll'
 import cv from '../Documents/RikeshMaharjan_CV.pdf';
 
 const Home1 = () => {
-    let currentUrl = window.location.href
-
-    if (currentUrl.endsWith('/')) {
-        currentUrl = currentUrl.slice(0, -1);
-    }
-
+    let currentUrl = window.location.origin
+    
     return (
         <div className='h-screen w-full bg-gradient-to-b from-gray-800 to-gray-900 text-white' id='home'>
             <div className='max-w-screen-lg mx-auto flex flex-col items-center justify-between pt-20 px-4 md:flex-row'>
